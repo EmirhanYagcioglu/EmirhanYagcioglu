@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Emirhan Yagcioglu. I'm current an EEE major at Bilkent University.
+
 <!--
 **EmirhanYagcioglu/EmirhanYagcioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
